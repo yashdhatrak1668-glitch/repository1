@@ -14,5 +14,4 @@ git config --global user.name "Name"	Set username
 git config --global user.email "mail@example.com"	Set email
 
 
-
-Hello I am Yash From New Tork City.
+This is the Updated Readme file.
